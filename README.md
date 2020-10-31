@@ -24,7 +24,7 @@ In order to train WaveGAN to map low dimensional latent vectors to high dimensio
 https://drive.google.com/file/d/1YX1XEpJ2W1cZD4Dn7d5CRBVPOFLUKG4B/view?usp=sharing
 
 
-You can generate RIR using the following trained models(https://drive.google.com/file/d/1IktFk27UnJx7ycGlOnc71VX7GuFRwR7L/view?usp=sharing). Copy these trained models to **RIR_Generation folder.
+You can generate RIR using the following trained models (https://drive.google.com/file/d/1IktFk27UnJx7ycGlOnc71VX7GuFRwR7L/view?usp=sharing). Copy these trained models to **RIR_Generation folder.
 
 ## IR Statistics Toolbox
 
@@ -44,7 +44,7 @@ python3 train_wavegan.py train ./train --data_dir RIR/ --data_first_slice --data
 ```
 ## Generate RIR
 
-Copy the trained models inside train director or download the trained models() inside **RIR Generation** folder. You can generated constrained RIR using the following command. 
+Copy the trained models inside train directory or download the trained models() inside **RIR Generation** folder. You can generated constrained RIR using the following command. 
 
 
 ```
@@ -63,7 +63,7 @@ you can edit the upper and lower limit inside the file **Vector_Arithmatic.py**
 
 ### Attribution
 
-If you use this code in your research, cite via the following BibTeX:
+If you use this code in your research, please consider citing
 
 ```
 @misc{ratnarajah2020irgan,
@@ -84,3 +84,7 @@ If you use this code in your research, cite via the following BibTeX:
   year={2019}
 }
 ```
+
+If you use recorded RIR from **BUT ReverbDB**, please consider citing
+
+

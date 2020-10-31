@@ -19,12 +19,12 @@ Matlab
 
 ## Datasets
 
-In order to train WaveGAN to map low dimensional latent vectors to high dimensional space where room impulse response is present. Use the following recorded RIR from **BUT ReverbDB**. Unzip **RIR** directory inside **IR-GAN** folder.
+In order to train **WaveGAN** to map low dimensional latent vectors to high dimensional space where room impulse response is present, use the following recorded RIR from **BUT ReverbDB**. Unzip **RIR** directory inside **IR-GAN** folder.
 
 https://drive.google.com/file/d/1YX1XEpJ2W1cZD4Dn7d5CRBVPOFLUKG4B/view?usp=sharing
 
 
-You can generate RIR using the following trained models (https://drive.google.com/file/d/1IktFk27UnJx7ycGlOnc71VX7GuFRwR7L/view?usp=sharing). Copy these trained models to **RIR_Generation folder.
+You can generate RIR using the following trained models (https://drive.google.com/file/d/1IktFk27UnJx7ycGlOnc71VX7GuFRwR7L/view?usp=sharing). Copy these trained models to **RIR_Generation folder**.
 
 ## IR Statistics Toolbox
 
@@ -36,7 +36,7 @@ Christopher Hummersone (2020). Impulse response acoustic information calculator 
 
 ## Train a WaveGAN
 
-You can train **WaveGAN** to generated RIR using the following command
+You can train **WaveGAN** to generate RIR using the following command
 
 ```
 export CUDA_VISIBLE_DEVICES=0
@@ -44,7 +44,7 @@ python3 train_wavegan.py train ./train --data_dir RIR/ --data_first_slice --data
 ```
 ## Generate RIR
 
-Copy the trained models inside train directory or download the trained models() inside **RIR Generation** folder. You can generated constrained RIR using the following command. 
+Copy the trained models inside train directory or download the trained models() to **RIR Generation** folder. You can generate constrained RIR using the following command. 
 
 
 ```

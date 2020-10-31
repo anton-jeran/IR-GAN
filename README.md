@@ -86,5 +86,21 @@ If you use this code in your research, please consider citing
 ```
 
 If you use recorded RIR from **BUT ReverbDB**, please consider citing
+```
+@article{DBLP:journals/jstsp/SzokeSMPC19,
+  author    = {Igor Sz{\"{o}}ke and
+               Miroslav Sk{\'{a}}cel and
+               Ladislav Mosner and
+               Jakub Paliesek and
+               Jan Honza Cernock{\'{y}}},
+  title     = {Building and Evaluation of a Real Room Impulse Response Dataset},
+  journal   = {{IEEE} J. Sel. Top. Signal Process.},
+  volume    = {13},
+  number    = {4},
+  pages     = {863--876},
+  year      = {2019}
+}
+```
+
 
 

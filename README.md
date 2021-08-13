@@ -2,6 +2,8 @@
 
 This is the official implementation of **IR-GAN**. This is the extension of **WaveGAN** to augment Room Impulse Response (RIR). You can find more details on this project here https://gamma.umd.edu/pro/speech/ir-gan.
 
+Video : https://www.youtube.com/watch?v=_v5rDmDXvD0
+
 
 
 ## Requirements

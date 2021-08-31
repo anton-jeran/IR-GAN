@@ -68,13 +68,13 @@ you can edit the upper and lower limit inside the file **Vector_Arithmatic.py**
 If you use this code in your research, please consider citing
 
 ```
-@misc{ratnarajah2020irgan,
-      title={IR-GAN: Room Impulse Response Generator for Speech Augmentation}, 
-      author={Anton Ratnarajah and Zhenyu Tang and Dinesh Manocha},
-      year={2020},
-      eprint={2010.13219},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}
+@inproceedings{ratnarajah21_interspeech,
+  author={Anton Ratnarajah and Zhenyu Tang and Dinesh Manocha},
+  title={{IR-GAN: Room Impulse Response Generator for Far-Field Speech Recognition}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={286--290},
+  doi={10.21437/Interspeech.2021-230}
 }
 ```
 

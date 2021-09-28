@@ -1,7 +1,7 @@
 # Related Works
 
 1) [**TS-RIR: Translated synthetic room impulse responses for speech augmentation (IEEE ASRU 2021)**](https://github.com/GAMMA-UMD/TS-RIR)
-2) 
+
 # IR-GAN (INTERSPEECH 2021)
 
 This is the official implementation of **IR-GAN**. This is the extension of **WaveGAN** to augment Room Impulse Response (RIR). You can find more details on this project here https://gamma.umd.edu/pro/speech/ir-gan.

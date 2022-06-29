@@ -1,7 +1,8 @@
 # Related Works
 
 1) [**TS-RIR: Translated synthetic room impulse responses for speech augmentation (IEEE ASRU 2021)**](https://github.com/GAMMA-UMD/TS-RIR)
-2) [**FAST-RIR: FAST NEURAL DIFFUSE ROOM IMPULSE RESPONSE GENERATOR**](https://github.com/anton-jeran/FAST-RIR)
+2) [**FAST-RIR: FAST NEURAL DIFFUSE ROOM IMPULSE RESPONSE GENERATOR (ICASSP 2022)**](https://github.com/anton-jeran/FAST-RIR)
+3) [**MESH2IR: Neural Acoustic Impulse Response Generator for Complex 3D Scenes (ACM Multimedia 2022)**](https://anton-jeran.github.io/M2IR/)
 
 
 # IR-GAN (INTERSPEECH 2021)
